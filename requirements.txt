@@ -1,0 +1,4 @@
+openai
+playwright
+bs4
+python-dotenv
